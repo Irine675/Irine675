@@ -7,4 +7,6 @@
 <!---
 Irine675/Irine675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->Hi,I'm @Irine675.I'm interested in acquiring new skills in IT. I'm currently taking some courses to heip me achieve my dreams.I like been a Front-End Developer. Been a beginnner, i'm looking forward to collaborate with everyone who can be of help to me. You can reach me through my email: irekanjumenk
+@gmail.com
+    Thanks
